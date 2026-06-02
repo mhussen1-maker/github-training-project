@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+
+body {
+    font-family: "Poppins";
+}
+
+nav {
+    background-color: #2563EB !important;
+    margin: 20px 0;
+}
+
+nav a {
+    color: #FFF !important;
+    font-family: "Poppins";
+    font-weight: 300;
+}
+
+#about-me {
+    margin: 20px 0;
+    font-family: "Poppins";
+    font-weight: 300;
+}
+
+#experience .carousel-item img {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.projects {
+    height: 100vh;
+    margin: 60px 0;
+}
+
+.card {
+    /* width: 32.33%; */
+    font-family: "Poppins";
+    font-weight: 300;
+}
+
+form input {
+    margin: 10px 0;
+}
+
+footer {
+    font-family: "Poppins";
+    font-weight: 300;
+}
