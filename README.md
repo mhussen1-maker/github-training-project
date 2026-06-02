@@ -93,11 +93,6 @@ in your browser.
 - Animations Enhancement
 
 ---
+## Live Demo
 
-## Author
-
-Abdulrahman Albatta
-
-Web Developer
-
-GitHub: https://github.com/your-username
+https://mhussen1-maker.github.io/github-training-project/
